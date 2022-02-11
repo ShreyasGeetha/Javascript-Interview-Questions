@@ -28,7 +28,7 @@ Function.prototype.myBind = function (...args) {
 }
 
 let person = {
-  firstName: 'Shreyas Ananth'
+  firstName: 'Shreyas'
 }
 
 
