@@ -4,7 +4,7 @@
 
 //This is a generic function that prints your name and other details
 const printName = function (city, state) {
-  console.log('My name is ', this.firstName, ' I am from ', city, ' belongs to this ', state)
+  console.log('My name is ', this.firstName, ' I am from ', city, ' belongs to ', state)
 }
 
 //our own bind method called myBind
